@@ -1,0 +1,1 @@
+This is chapter 2 where I check how things works in git version control when i add new chapter of file.
